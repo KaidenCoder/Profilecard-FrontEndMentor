@@ -1,0 +1,86 @@
+html,
+body {
+    margin: 0;
+    background: url(./images/bg-pattern-top.svg),
+        url(./images/bg-pattern-bottom.svg);
+    background-position: right 50vw bottom 30vh, left 50vw top 30vh;
+    background-color: rgb(25, 162, 174);
+    background-repeat: no-repeat, no-repeat;
+    background-attachment: fixed, fixed;
+    background-size: auto;
+    height: 100vh;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.top-img {
+    padding-top: 150px;
+}
+
+.back-img {
+    position: relative;
+    top: 0px;
+    left: 0;
+    width: 300px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.img-profile {
+    border-radius: 100%;
+    position: relative;
+    border: 3px solid white;
+    top: -50px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    z-index: 2;
+}
+
+.card {
+    height: 350px;
+    width: 300px;
+    margin: 40px auto 0 auto;
+    justify-content: center;
+    border-radius: 5px;
+    background: white;
+    box-shadow: 0 2px 5px 0px rgba(0, 0, 0, 0.4);
+}
+
+.name {
+    margin-top: -40px;
+    text-align: center;
+}
+
+.number {
+    color: rgba(0, 0, 0, 0.4);
+}
+
+.location {
+    color: rgba(0, 0, 0, 0.4);
+    text-align: center;
+}
+
+hr {
+    color: lightgray;
+}
+
+.details {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.bignumber {
+    text-align: center;
+}
+
+.bigdetails {
+    margin-top: -15px;
+    color: rgba(0, 0, 0, 0.3);
+    font-size: 12px;
+    text-align: center;
+}
+
+.attribution {
+    padding-top: 50px;
+}
