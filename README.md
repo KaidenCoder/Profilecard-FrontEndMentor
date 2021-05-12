@@ -29,8 +29,8 @@ It is a challenging project, even though the difficulty level is a newbie. The r
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Live Website](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://github.com/Kurosakicoder/Profilecard-FrontEndMentor)
+- Live Site URL: [Live Website](https://kurosakicoder.github.io/Profilecard-FrontEndMentor/)
 
 ## My process
 
@@ -70,7 +70,7 @@ body {
 
 ## Author
 
-- Website - [Khaidem Sandip Singha ](https://www.your-site.com)
+- Website - [Khaidem Sandip Singha ](https://www.linkedin.com/in/khaidemsandip/)
 - Frontend Mentor - [@Kurosakicoder](https://www.frontendmentor.io/profile/Kurosakicoder)
 - Twitter - [@KurosakiCoder](https://twitter.com/KurosakiCoder)
 
